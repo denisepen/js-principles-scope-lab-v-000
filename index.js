@@ -11,11 +11,11 @@ function setBestCustomer(){
 }
 
 function overwriteBestCustomer(){
-  bestCustomer = "maybe bob"
+  bestCustomer = "maybe bob";
 }
 
 
-   leastFavoriteCustomer = "jill"
+   const leastFavoriteCustomer = "jill";
 
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = "bill"
